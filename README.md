@@ -1,5 +1,5 @@
 - 👋 Hi there,
-- I’m @BabakAlaodolehei
+- I’m @Babak
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Phyton and Machine learning.
 - 📫 How to reach me babak.alaoddoleh@gmail.com
