@@ -1,7 +1,7 @@
 - 👋 Hi there,
 - I’m @Babak
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Phyton and Machine learning.
+- 🌱 I’m currently learning the data engineering concepts.
 - 📫 How to reach me babak.alaoddoleh@gmail.com
 
 <!---
