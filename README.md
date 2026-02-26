@@ -1,7 +1,6 @@
 - 👋 Hi there,
 - I’m @Babak
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning the data engineering concepts.
+- 👀 I’m very interested and passionate about Data Science.
 - 📫 How to reach me babak.alaoddoleh@gmail.com
 
 <!---
